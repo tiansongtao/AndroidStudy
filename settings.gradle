@@ -1,3 +1,4 @@
+include ':Touch'
 include ':Animation'
 include ':View'
 include ':app'
